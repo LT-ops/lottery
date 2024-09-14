@@ -1018,7 +1018,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return $e("Approving Affection"), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
+                                            return $e("Approving (A)"), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
                                                 from: z
                                             });
                                         case 7:
@@ -1205,7 +1205,7 @@
                                     children: [Object(g.jsx)("h1", {
                                         children: "Your Balance"
                                     }), Object(g.jsxs)("p", {
-                                        children: [Number(Xe).toFixed(2), " Affection"]
+                                        children: [Number(Xe).toFixed(2), " (A)"]
                                     })]
                                 })]
                             })
@@ -1236,7 +1236,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 Affection"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1254,7 +1254,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 Affection"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1272,7 +1272,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 Affection"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1304,7 +1304,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [fe, " Affection"]
+                                                            children: [fe, " (A)"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1380,7 +1380,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Te, " Affection"]
+                                                            children: [Te, " (A)"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1456,7 +1456,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Se, " Affection"]
+                                                            children: [Se, " (A)"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
