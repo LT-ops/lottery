@@ -1236,7 +1236,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 Affection"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1254,7 +1254,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 Affection"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1272,12 +1272,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 Affection"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1304,7 +1304,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [fe, " USDT"]
+                                                            children: [fe, " Affection"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1380,7 +1380,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Te, " USDT"]
+                                                            children: [Te, " Affection"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1456,7 +1456,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Se, " USDT"]
+                                                            children: [Se, " Affection"]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1536,7 +1536,7 @@
                         }), Object(g.jsx)("br", {}), Object(g.jsx)("center", {
                             children: Object(g.jsxs)("h5", {
                                 children: [" ", Object(g.jsxs)("a", {
-                                    href: "https://twitter.com/USDT_",
+                                    href: "https://twitter.com/KindOnPls",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
@@ -1545,7 +1545,8 @@
                                         class: "fa fa-twitter"
                                     }), " Twitter "]
                                 }), " || ", Object(g.jsxs)("a", {
-                                    href: "https://t.me/USDTofficialchat",
+                                    href: "https://t.me/kindnessPLS
+",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
