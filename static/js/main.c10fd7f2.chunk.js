@@ -1236,12 +1236,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 50 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1254,12 +1254,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 100 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1272,7 +1272,7 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 200 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 USDT"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
@@ -1555,7 +1555,7 @@
                                     }), " Telegram "]
                                 
                                 }), "|| ", Object(g.jsxs)("a", {
-                                    href: "https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955#code",
+                                    href: "https://otter.pulsechain.com/address/0x06d81D760898bb736b60Cd0cf98c522d51337D76/contract",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
