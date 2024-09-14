@@ -409,7 +409,7 @@
                 }];
 
             function O(e) {
-                return new e.eth.Contract(m, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0")
+                return new e.eth.Contract(m, "0x06d81D760898bb736b60Cd0cf98c522d51337D76")
             }
             var x = [{
                 inputs: [],
