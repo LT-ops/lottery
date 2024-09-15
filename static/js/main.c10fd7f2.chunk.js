@@ -40,7 +40,7 @@
                                 package: o.a,
                                 options: {
                                     rpc: {
-                                        56: "https://bsc-dataseed.binance.org"
+                                        369: "https://rpc.pulsechain.com"
                                     }
                                 }
                             }
@@ -70,7 +70,7 @@
                     type: "event"
                 }, {
                     inputs: [],
-                    name: "USDTInterface",
+                    name: “AffectionInterface",
                     outputs: [{
                         internalType: "contract IERC20",
                         name: "",
@@ -409,7 +409,7 @@
                 }];
 
             function O(e) {
-                return new e.eth.Contract(m, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0")
+                return new e.eth.Contract(m, "0x06d81D760898bb736b60Cd0cf98c522d51337D76")
             }
             var x = [{
                 inputs: [],
@@ -774,7 +774,7 @@
             }];
 
             function h(e) {
-                return new e.eth.Contract(x, "0x55d398326f99059fF775485246999027B3197955")
+                return new e.eth.Contract(x, "0x24F0154C1dCe548AdF15da2098Fdd8B8A3B8151D")
             }
             var f = n.p + "static/media/logo.png",
                 v = n.p + " ",
@@ -992,7 +992,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", e.next = 4, o.methods.allowance(z, "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0").call();
+                                            return "0x06d81D760898bb736b60Cd0cf98c522d51337D76", e.next = 4, o.methods.allowance(z, "0x06d81D760898bb736b60Cd0cf98c522d51337D76").call();
                                         case 4:
                                             return t = e.sent, Ge(t), e.next = 8, o.methods.balanceOf(z).call();
                                         case 8:
@@ -1018,7 +1018,7 @@
                                                 e.next = 10;
                                                 break
                                             }
-                                            return $e("Approving USDT"), "0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
+                                            return $e("Approving Affection”), "0x06d81D760898bb736b60Cd0cf98c522d51337D76", "99999999999999999999999999999999999999999999999999", e.next = 7, o.methods.approve("0xc8c74e2c6a355d6a4760e6442fc74e6b698103d0", "99999999999999999999999999999999999999999999999999").send({
                                                 from: z
                                             });
                                         case 7:
@@ -1196,7 +1196,7 @@
                                 children: [Object(g.jsxs)("div", {
                                     className: "col-sm-9",
                                     children: [Object(g.jsx)("h1", {
-                                        children: "USDT Lottery"
+                                        children: “A Lottery"
                                     }), Object(g.jsx)("p", {
                                         children: "Instant Win, Instant Announcement, Immediate Transfer"
                                     })]
@@ -1205,7 +1205,7 @@
                                     children: [Object(g.jsx)("h1", {
                                         children: "Your Balance"
                                     }), Object(g.jsxs)("p", {
-                                        children: [Number(Xe).toFixed(2), " USDT"]
+                                        children: [Number(Xe).toFixed(2), " A”]
                                     })]
                                 })]
                             })
@@ -1236,12 +1236,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 50 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1254,12 +1254,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 100 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 2000 (A)"]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1272,12 +1272,12 @@
                                             className: "card-body",
                                             children: [" ", Object(g.jsxs)("center", {
                                                 children: [" ", Object(g.jsxs)("h4", {
-                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 200 USDT"]
+                                                    children: ["Winning Prize ", Object(g.jsx)("br", {}), " 4000 (A)”]
                                                 }), Object(g.jsx)("p", {
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "30% Winner tax goes to Dev & Buyback Wallet"
+                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1304,7 +1304,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [fe, " USDT"]
+                                                            children: [fe, " (A)”]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1380,7 +1380,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Te, " USDT"]
+                                                            children: [Te, " (A)”]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1456,7 +1456,7 @@
                                                             style: {
                                                                 textAlign: "right"
                                                             },
-                                                            children: [Se, " USDT"]
+                                                            children: [Se, " (A)”]
                                                         })]
                                                     }), Object(g.jsxs)("tr", {
                                                         children: [Object(g.jsx)("td", {
@@ -1536,7 +1536,7 @@
                         }), Object(g.jsx)("br", {}), Object(g.jsx)("center", {
                             children: Object(g.jsxs)("h5", {
                                 children: [" ", Object(g.jsxs)("a", {
-                                    href: "https://twitter.com/USDT_",
+                                    href: "https://twitter.com/KindOnPls”,
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
@@ -1545,7 +1545,7 @@
                                         class: "fa fa-twitter"
                                     }), " Twitter "]
                                 }), " || ", Object(g.jsxs)("a", {
-                                    href: "https://t.me/USDTofficialchat",
+                                    href: "https://t.me/KindnessPLS”,
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
@@ -1555,7 +1555,7 @@
                                     }), " Telegram "]
                                 
                                 }), "|| ", Object(g.jsxs)("a", {
-                                    href: "https://bscscan.com/address/0x55d398326f99059fF775485246999027B3197955#code",
+                                    href: "https://otter.pulsechain.com/address/0x06d81D760898bb736b60Cd0cf98c522d51337D76/contract",
                                     style: {
                                         color: "#ffc107",
                                         textDecoration: "none"
