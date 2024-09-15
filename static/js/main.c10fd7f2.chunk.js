@@ -70,7 +70,7 @@
                     type: "event"
                 }, {
                     inputs: [],
-                    name: “AffectionInterface",
+                    name: “USDTInterface",
                     outputs: [{
                         internalType: "contract IERC20",
                         name: "",
