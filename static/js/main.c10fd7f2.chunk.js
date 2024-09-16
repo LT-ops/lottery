@@ -70,7 +70,7 @@
                     type: "event"
                 }, {
                     inputs: [],
-                    name: “USDTInterface",
+                    name: “AffectionInterface",
                     outputs: [{
                         internalType: "contract IERC20",
                         name: "",
@@ -1241,7 +1241,7 @@
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
+                                                    children: "15% Winner tax Weekly Draws & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1259,7 +1259,7 @@
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
+                                                    children: "15% Winner tax Weekly Prizes & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
@@ -1277,7 +1277,7 @@
                                                     style: {
                                                         fontSize: "8px"
                                                     },
-                                                    children: "15% Winner tax weekly Draws & Affection TipJar"
+                                                    children: "15% Winner tax Weekly Prizes & Affection TipJar"
                                                 })]
                                             })]
                                         }), " "]
